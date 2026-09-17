@@ -1,0 +1,38 @@
+borrower_id,name,persona_note,household_income,savings_buffer,other_loan_emi,mfi_loan_amount,mfi_tenure_months
+B01,Maya,"Seasonal agricultural income; two comparable dips this year, both fully recovered",23650,20000,0,36000,12
+B02,Asha,"Stable-looking business, economically linked to Maya through a shared supply arrangement",22000,9000,2000,42000,18
+B03,Ravi,Independent local retailer; only a weak village-level connection to Maya,28000,35000,500,38000,10
+B04,Imran,Independent shopkeeper with no financial relationship to the rest of this group,22000,24000,0,33000,12
+B05,Priya,Independent borrower with a genuine multi-month income decline and no historical recovery pattern,24000,5000,2000,36000,12
+B06,Kiran,Local supplier dependent on Asha's business volume,25000,15000,0,30000,12
+B07,Rahul,Shares transport logistics with Ravi,23000,12000,0,25000,12
+B08,Vikram,Standard portfolio borrower,21000,5000,2000,30000,12
+B09,Sunita,Standard portfolio borrower,26000,12000,0,30000,12
+B10,Amit,Standard portfolio borrower,22000,8000,2000,30000,12
+B11,Neha,Standard portfolio borrower,35000,7000,2000,30000,12
+B12,Rohit,Standard portfolio borrower,31000,6000,0,30000,12
+B13,Pooja,Standard portfolio borrower,20000,11000,0,30000,12
+B14,Sanjay,Standard portfolio borrower,34000,5000,2000,30000,12
+B15,Anjali,Standard portfolio borrower,24000,18000,0,30000,12
+B16,Suresh,Standard portfolio borrower,32000,13000,0,30000,12
+B17,Kavita,Standard portfolio borrower,23000,18000,1000,30000,12
+B18,Manish,Standard portfolio borrower,26000,9000,0,30000,12
+B19,Ritu,Standard portfolio borrower,28000,8000,0,30000,12
+B20,Deepak,Standard portfolio borrower,30000,8000,1000,30000,12
+B21,Sneha,Standard portfolio borrower,29000,13000,0,30000,12
+B22,Vijay,Standard portfolio borrower,32000,8000,1000,30000,12
+B23,Aarti,Standard portfolio borrower,20000,14000,2000,30000,12
+B24,Prakash,Standard portfolio borrower,29000,11000,2000,30000,12
+B25,Rekha,Standard portfolio borrower,20000,6000,2000,30000,12
+B26,Anil,Standard portfolio borrower,25000,14000,0,30000,12
+B27,Swati,Standard portfolio borrower,25000,8000,1000,30000,12
+B28,Manoj,Standard portfolio borrower,26000,19000,2000,30000,12
+B29,Geeta,Standard portfolio borrower,29000,10000,1000,30000,12
+B30,Rajesh,Standard portfolio borrower,29000,11000,2000,30000,12
+B31,Meena,Standard portfolio borrower,26000,7000,2000,30000,12
+B32,Sunil,Standard portfolio borrower,23000,12000,0,30000,12
+B33,Jyoti,Standard portfolio borrower,32000,17000,1000,30000,12
+B34,Ramesh,Standard portfolio borrower,35000,12000,2000,30000,12
+B35,Sushma,Standard portfolio borrower,28000,6000,0,30000,12
+B36,Vinod,Standard portfolio borrower,19000,15000,1000,30000,12
+B37,Poonam,Standard portfolio borrower,26000,7000,0,30000,12

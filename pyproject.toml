@@ -1,0 +1,17 @@
+[tool.ruff]
+target-version = "py39"
+line-length = 100
+extend-select = ["I", "UP"]
+exclude = [".git", ".streamlit"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]
+
+[tool.mypy]
+python_version = "3.9"
+check_untyped_defs = true
+disallow_untyped_defs = false
+no_implicit_optional = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+ignore_missing_imports = true

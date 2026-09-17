@@ -1,0 +1,101 @@
+borrower_id,label,group_id,segment,occupation,location,monthly_income,loan_amount,monthly_installment,existing_loans,previous_loans,previous_late_payments,loan_purpose,attendance_rate,borrowing_frequency,baseline_delay_days,current_delay_days,current_attendance_rate,current_borrowing_frequency
+B-001,Borrower 001,G01,retail,Street vendor,North Market,28500,90000,5200,1,2,0,Working capital,0.94,1,2,1,0.95,1
+B-002,Borrower 002,G01,services,Tailor,North Market,32000,110000,6100,0,2,1,Equipment purchase,0.91,1,3,2,0.92,1
+B-003,Borrower 003,G01,agriculture,Vegetable farmer,North Market,26500,75000,4300,1,1,0,Seasonal inputs,0.93,1,2,2,0.92,1
+B-004,Borrower 004,G01,transport,Auto driver,North Market,30000,100000,5700,1,3,1,Vehicle repair,0.90,1,4,3,0.91,1
+B-005,Borrower 005,G01,services,Mobile repairer,North Market,35000,125000,7000,0,2,0,Shop upgrade,0.96,1,1,1,0.95,1
+B-006,Borrower 006,G01,retail,Grocery shopkeeper,North Market,42000,150000,8400,1,3,1,Inventory,0.92,1,3,2,0.93,1
+B-007,Borrower 007,G01,agriculture,Dairy farmer,North Market,38000,130000,7300,0,2,0,Livestock,0.95,1,2,1,0.96,1
+B-008,Borrower 008,G01,services,Beauty worker,North Market,27500,85000,4900,1,1,0,Working capital,0.89,1,4,3,0.90,1
+B-009,Borrower 009,G01,retail,Clothing seller,North Market,33000,105000,5900,0,2,1,Inventory,0.93,1,3,2,0.92,1
+B-010,Borrower 010,G01,transport,Bicycle courier,North Market,24500,70000,4000,1,1,0,Vehicle repair,0.91,1,2,2,0.90,1
+B-011,Borrower 011,G02,retail,Street vendor,East Bazaar,29000,95000,5400,1,2,0,Working capital,0.95,1,2,1,0.96,1
+B-012,Borrower 012,G02,services,Tailor,East Bazaar,36000,120000,6700,0,3,1,Equipment purchase,0.92,1,3,2,0.91,1
+B-013,Borrower 013,G02,agriculture,Rice farmer,East Bazaar,41000,145000,8100,1,2,0,Seasonal inputs,0.94,1,2,2,0.93,1
+B-014,Borrower 014,G02,transport,Auto driver,East Bazaar,31500,105000,6000,1,3,1,Vehicle repair,0.90,1,4,3,0.89,1
+B-015,Borrower 015,G02,services,Mobile repairer,East Bazaar,34000,115000,6500,0,2,0,Shop upgrade,0.96,1,1,1,0.97,1
+B-016,Borrower 016,G02,retail,Grocery shopkeeper,East Bazaar,45500,160000,9000,1,3,1,Inventory,0.93,1,3,2,0.92,1
+B-017,Borrower 017,G02,agriculture,Dairy farmer,East Bazaar,37000,125000,7000,0,2,0,Livestock,0.91,1,2,1,0.93,1
+B-018,Borrower 018,G02,services,Beauty worker,East Bazaar,30000,90000,5100,1,2,1,Working capital,0.90,1,4,3,0.91,1
+B-019,Borrower 019,G02,retail,Clothing seller,East Bazaar,38500,135000,7600,0,3,0,Inventory,0.94,1,2,2,0.95,1
+B-020,Borrower 020,G02,transport,Bicycle courier,East Bazaar,26000,80000,4600,1,1,0,Vehicle repair,0.92,1,3,2,0.91,1
+B-021,Borrower 021,G03,retail,Street vendor,South Colony,27000,85000,4900,1,2,1,Working capital,0.90,1,4,3,0.89,1
+B-022,Borrower 022,G03,services,Tailor,South Colony,34500,115000,6500,0,2,0,Equipment purchase,0.94,1,2,1,0.95,1
+B-023,Borrower 023,G03,agriculture,Vegetable farmer,South Colony,25000,70000,4000,1,1,0,Seasonal inputs,0.92,1,3,2,0.91,1
+B-024,Borrower 024,G03,transport,Auto driver,South Colony,30500,100000,5700,1,3,1,Vehicle repair,0.91,1,4,3,0.90,1
+B-025,Borrower 025,G03,services,Mobile repairer,South Colony,37500,135000,7600,0,3,0,Shop upgrade,0.95,1,2,1,0.94,1
+B-026,Borrower 026,G03,retail,Grocery shopkeeper,South Colony,44000,155000,8700,1,3,1,Inventory,0.93,1,3,2,0.92,1
+B-027,Borrower 027,G03,agriculture,Dairy farmer,South Colony,39500,140000,7900,0,2,0,Livestock,0.96,1,1,1,0.95,1
+B-028,Borrower 028,G03,services,Beauty worker,South Colony,28500,88000,5000,1,2,0,Working capital,0.89,1,4,3,0.90,1
+B-029,Borrower 029,G03,retail,Clothing seller,South Colony,35000,118000,6600,0,2,1,Inventory,0.92,1,3,2,0.91,1
+B-030,Borrower 030,G03,transport,Bicycle courier,South Colony,23500,68000,3900,1,1,0,Vehicle repair,0.90,1,2,2,0.91,1
+B-031,Borrower 031,G04,retail,Street vendor,West Ward,30500,100000,5700,1,2,0,Working capital,0.93,1,2,1,0.94,1
+B-032,Borrower 032,G04,services,Tailor,West Ward,33000,108000,6100,0,2,1,Equipment purchase,0.91,1,3,2,0.90,1
+B-033,Borrower 033,G04,agriculture,Rice farmer,West Ward,43000,155000,8700,1,3,0,Seasonal inputs,0.95,1,2,2,0.94,1
+B-034,Borrower 034,G04,transport,Auto driver,West Ward,32500,112000,6300,1,2,1,Vehicle repair,0.90,1,4,3,0.89,1
+B-035,Borrower 035,G04,services,Mobile repairer,West Ward,36500,128000,7200,0,2,0,Shop upgrade,0.94,1,2,1,0.95,1
+B-036,Borrower 036,G04,retail,Grocery shopkeeper,West Ward,47000,175000,9800,1,3,1,Inventory,0.92,1,3,2,0.91,1
+B-037,Borrower 037,G04,agriculture,Dairy farmer,West Ward,40000,145000,8100,0,2,0,Livestock,0.96,1,1,1,0.97,1
+B-038,Borrower 038,G04,services,Beauty worker,West Ward,29500,92000,5200,1,1,0,Working capital,0.90,1,4,3,0.89,1
+B-039,Borrower 039,G04,retail,Clothing seller,West Ward,37500,130000,7300,0,3,1,Inventory,0.93,1,3,2,0.92,1
+B-040,Borrower 040,G04,transport,Bicycle courier,West Ward,25500,76000,4300,1,1,0,Vehicle repair,0.91,1,2,2,0.90,1
+B-041,Borrower 041,G05,retail,Street vendor,Central Block,31500,105000,5900,1,2,0,Working capital,0.92,1,3,2,0.93,1
+B-042,Borrower 042,G05,services,Tailor,Central Block,35500,118000,6600,0,2,1,Equipment purchase,0.94,1,2,1,0.93,1
+B-043,Borrower 043,G05,agriculture,Vegetable farmer,Central Block,28000,82000,4700,1,1,0,Seasonal inputs,0.91,1,3,2,0.90,1
+B-044,Borrower 044,G05,transport,Auto driver,Central Block,34000,120000,6800,1,3,1,Vehicle repair,0.89,1,5,4,0.90,1
+B-045,Borrower 045,G05,services,Mobile repairer,Central Block,39000,140000,7900,0,3,0,Shop upgrade,0.95,1,2,1,0.96,1
+B-046,Borrower 046,G05,retail,Grocery shopkeeper,Central Block,48000,180000,10100,1,3,1,Inventory,0.93,1,3,2,0.92,1
+B-047,Borrower 047,G05,agriculture,Dairy farmer,Central Block,42000,150000,8400,0,2,0,Livestock,0.94,1,2,1,0.95,1
+B-048,Borrower 048,G05,services,Beauty worker,Central Block,30500,98000,5500,1,2,1,Working capital,0.88,1,5,4,0.87,1
+B-049,Borrower 049,G05,retail,Clothing seller,Central Block,36500,125000,7000,0,2,0,Inventory,0.92,1,3,2,0.93,1
+B-050,Borrower 050,G05,transport,Bicycle courier,Central Block,27500,85000,4800,1,1,0,Vehicle repair,0.90,1,3,2,0.89,1
+B-051,Borrower 051,G06,retail,Street vendor,Lake District,26000,90000,5200,1,2,1,Working capital,0.89,1,5,7,0.85,2
+B-052,Borrower 052,G06,services,Tailor,Lake District,33500,115000,6500,1,2,1,Equipment purchase,0.88,1,4,6,0.84,2
+B-053,Borrower 053,G06,agriculture,Rice farmer,Lake District,39000,140000,7900,1,3,1,Seasonal inputs,0.90,1,4,8,0.82,2
+B-054,Borrower 054,G06,transport,Auto driver,Lake District,30000,108000,6100,2,2,2,Vehicle repair,0.87,2,5,9,0.80,2
+B-055,Borrower 055,G06,services,Mobile repairer,Lake District,36000,130000,7300,1,3,1,Shop upgrade,0.91,1,3,5,0.86,2
+B-056,Borrower 056,G06,retail,Grocery shopkeeper,Lake District,45000,170000,9500,2,3,2,Inventory,0.86,2,5,10,0.78,3
+B-057,Borrower 057,G06,agriculture,Dairy farmer,Lake District,37000,128000,7200,1,2,1,Livestock,0.88,1,4,7,0.83,2
+B-058,Borrower 058,G06,services,Beauty worker,Lake District,28500,95000,5400,1,2,1,Working capital,0.85,2,5,8,0.79,2
+B-059,Borrower 059,G06,retail,Clothing seller,Lake District,34500,120000,6800,1,3,1,Inventory,0.90,1,4,6,0.84,2
+B-060,Borrower 060,G06,transport,Bicycle courier,Lake District,24000,78000,4500,2,1,2,Vehicle repair,0.84,2,5,9,0.76,3
+B-061,Borrower 061,G07,retail,Street vendor,Hill View,29500,100000,5700,1,2,1,Working capital,0.88,1,4,7,0.83,2
+B-062,Borrower 062,G07,services,Tailor,Hill View,37000,125000,7000,1,3,1,Equipment purchase,0.90,1,3,5,0.86,2
+B-063,Borrower 063,G07,agriculture,Vegetable farmer,Hill View,27500,85000,4900,1,2,1,Seasonal inputs,0.86,2,5,8,0.79,2
+B-064,Borrower 064,G07,transport,Auto driver,Hill View,31500,115000,6500,2,3,2,Vehicle repair,0.85,2,5,10,0.77,3
+B-065,Borrower 065,G07,services,Mobile repairer,Hill View,38000,135000,7600,1,2,0,Shop upgrade,0.92,1,3,4,0.88,1
+B-066,Borrower 066,G07,retail,Grocery shopkeeper,Hill View,43000,160000,9000,2,3,1,Inventory,0.87,2,4,8,0.80,2
+B-067,Borrower 067,G07,agriculture,Dairy farmer,Hill View,40500,145000,8100,1,2,1,Livestock,0.89,1,4,6,0.84,2
+B-068,Borrower 068,G07,services,Beauty worker,Hill View,31000,105000,5900,1,2,1,Working capital,0.86,2,5,9,0.78,3
+B-069,Borrower 069,G07,retail,Clothing seller,Hill View,35500,128000,7200,1,3,1,Inventory,0.91,1,3,5,0.85,2
+B-070,Borrower 070,G07,transport,Bicycle courier,Hill View,25000,82000,4700,2,1,2,Vehicle repair,0.83,2,6,10,0.75,3
+B-071,Borrower 071,G08,retail,Street vendor,River Side,27500,95000,5400,2,2,2,Working capital,0.82,2,6,14,0.69,3
+B-072,Borrower 072,G08,services,Tailor,River Side,34000,120000,6800,2,3,2,Equipment purchase,0.84,2,5,12,0.70,3
+B-073,Borrower 073,G08,agriculture,Rice farmer,River Side,36000,135000,7600,2,3,2,Seasonal inputs,0.80,2,7,16,0.65,4
+B-074,Borrower 074,G08,transport,Auto driver,River Side,29000,110000,6200,3,2,3,Vehicle repair,0.78,3,8,18,0.61,4
+B-075,Borrower 075,G08,services,Mobile repairer,River Side,37000,145000,8100,2,3,2,Shop upgrade,0.85,2,5,11,0.72,3
+B-076,Borrower 076,G08,retail,Grocery shopkeeper,River Side,42500,175000,9800,3,3,3,Inventory,0.79,3,8,19,0.60,4
+B-077,Borrower 077,G08,agriculture,Dairy farmer,River Side,39000,150000,8400,2,2,2,Livestock,0.83,2,6,15,0.67,3
+B-078,Borrower 078,G08,services,Beauty worker,River Side,30000,100000,5700,2,2,2,Working capital,0.77,3,8,17,0.59,4
+B-079,Borrower 079,G08,retail,Clothing seller,River Side,35000,130000,7300,2,3,2,Inventory,0.81,2,7,14,0.66,3
+B-080,Borrower 080,G08,transport,Bicycle courier,River Side,23500,80000,4600,3,1,3,Vehicle repair,0.75,3,9,20,0.55,4
+B-081,Borrower 081,G09,retail,Street vendor,Old Town,25500,105000,6000,2,2,2,Working capital,0.79,2,7,16,0.64,4
+B-082,Borrower 082,G09,services,Tailor,Old Town,32500,125000,7100,2,3,2,Equipment purchase,0.81,2,6,14,0.67,3
+B-083,Borrower 083,G09,agriculture,Vegetable farmer,Old Town,26500,90000,5100,2,2,3,Seasonal inputs,0.76,3,8,18,0.58,4
+B-084,Borrower 084,G09,transport,Auto driver,Old Town,28500,115000,6500,3,3,3,Vehicle repair,0.74,3,9,21,0.53,4
+B-085,Borrower 085,G09,services,Mobile repairer,Old Town,35500,140000,7900,2,3,2,Shop upgrade,0.82,2,6,13,0.68,3
+B-086,Borrower 086,G09,retail,Grocery shopkeeper,Old Town,40000,180000,10100,3,3,4,Inventory,0.72,3,10,24,0.48,5
+B-087,Borrower 087,G09,agriculture,Dairy farmer,Old Town,37500,155000,8700,2,2,3,Livestock,0.78,3,8,19,0.57,4
+B-088,Borrower 088,G09,services,Beauty worker,Old Town,28000,108000,6100,3,2,3,Working capital,0.70,4,10,25,0.45,5
+B-089,Borrower 089,G09,retail,Clothing seller,Old Town,33500,135000,7600,2,3,3,Inventory,0.75,3,9,22,0.52,4
+B-090,Borrower 090,G09,transport,Bicycle courier,Old Town,22500,85000,4900,3,1,4,Vehicle repair,0.68,4,11,27,0.40,5
+B-091,Borrower 091,G10,retail,Street vendor,New Extension,24000,110000,6300,3,2,3,Working capital,0.74,3,9,23,0.49,5
+B-092,Borrower 092,G10,services,Tailor,New Extension,31500,130000,7400,3,3,3,Equipment purchase,0.76,3,8,20,0.54,4
+B-093,Borrower 093,G10,agriculture,Rice farmer,New Extension,34500,145000,8200,3,3,4,Seasonal inputs,0.70,4,10,26,0.43,5
+B-094,Borrower 094,G10,transport,Auto driver,New Extension,27500,120000,6800,4,3,4,Vehicle repair,0.67,4,12,29,0.37,6
+B-095,Borrower 095,G10,services,Mobile repairer,New Extension,35000,150000,8400,3,3,3,Shop upgrade,0.78,3,8,21,0.56,4
+B-096,Borrower 096,G10,retail,Grocery shopkeeper,New Extension,39000,190000,10700,4,3,5,Inventory,0.65,4,12,31,0.35,6
+B-097,Borrower 097,G10,agriculture,Dairy farmer,New Extension,36500,165000,9300,3,2,4,Livestock,0.71,4,10,27,0.42,5
+B-098,Borrower 098,G10,services,Beauty worker,New Extension,27000,115000,6500,4,2,4,Working capital,0.63,5,13,32,0.31,6
+B-099,Borrower 099,G10,retail,Clothing seller,New Extension,32500,145000,8200,3,3,4,Inventory,0.69,4,11,28,0.39,5
+B-100,Borrower 100,G10,transport,Bicycle courier,New Extension,21500,90000,5200,4,1,5,Vehicle repair,0.60,5,14,35,0.25,7

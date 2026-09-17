@@ -1,0 +1,57 @@
+{
+  "model_version": "stress-model-demo-1",
+  "target": "stress_next_30_days",
+  "target_definition": "1 when the next scheduled repayment within the 30-day monitoring window is delayed or partial; otherwise 0. The synthetic monthly schedule is 31 days, so a one-day schedule grace is applied.",
+  "target_horizon_days": 30,
+  "schedule_grace_days": 1,
+  "data_directory": "data",
+  "training_rows": 100,
+  "positive_rows": 50,
+  "negative_rows": 50,
+  "feature_names": [
+    "historical_observation_count",
+    "recent_payment_delay",
+    "current_payment_ratio",
+    "attendance_trend",
+    "borrowing_frequency_change",
+    "debt_to_income_ratio",
+    "installment_to_income_ratio",
+    "previous_repayment_performance",
+    "configured_baseline_delay_deviation"
+  ],
+  "excluded_all_null_features": [
+    "historical_average_delay",
+    "payment_delay_trend",
+    "missed_or_partial_payment_frequency",
+    "partial_payment_frequency",
+    "historical_on_time_rate",
+    "deviation_from_personal_baseline"
+  ],
+  "selected_model": "random_forest",
+  "selection_priority": [
+    "recall",
+    "f1",
+    "roc_auc",
+    "precision"
+  ],
+  "random_state": 42,
+  "test_size": 0.25,
+  "metrics": {
+    "logistic_regression": {
+      "precision": 1.0,
+      "recall": 0.9166666666666666,
+      "f1": 0.9565217391304348,
+      "roc_auc": 1.0
+    },
+    "random_forest": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "roc_auc": 1.0
+    }
+  },
+  "outputs": {
+    "model": "models/stress_model.pkl",
+    "metadata": "models/model_metadata.json"
+  }
+}
