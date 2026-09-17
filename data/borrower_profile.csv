@@ -1,38 +1,39 @@
 borrower_id,name,persona_note,household_income,savings_buffer,other_loan_emi,mfi_loan_amount,mfi_tenure_months
-B01,Maya,Seasonal agricultural income,23650,20000,0,36000,12
-B02,Asha,Stable-looking business,22000,9000,2000,42000,18
-B03,Ravi,Independent local retailer,28000,35000,500,38000,10
-B04,Imran,Independent shopkeeper,22000,24000,0,33000,12
-B05,Priya,Independent borrower,24000,5000,2000,36000,12
-B06,Kiran,Local supplier,25000,15000,0,30000,12
-B07,Rahul,Shares transport logistics,23000,12000,0,25000,12
-B08,Vikram,Standard portfolio borrower,21000,5000,2000,30000,12
-B09,Sunita,Standard portfolio borrower,26000,12000,0,30000,12
-B10,Amit,Standard portfolio borrower,22000,8000,2000,30000,12
-B11,Neha,Standard portfolio borrower,35000,7000,2000,30000,12
-B12,Rohit,Standard portfolio borrower,31000,6000,0,30000,12
-B13,Pooja,Standard portfolio borrower,20000,11000,0,30000,12
-B14,Sanjay,Standard portfolio borrower,34000,5000,2000,30000,12
-B15,Anjali,Standard portfolio borrower,24000,18000,0,30000,12
-B16,Suresh,Standard portfolio borrower,32000,13000,0,30000,12
-B17,Kavita,Standard portfolio borrower,23000,18000,1000,30000,12
-B18,Manish,Standard portfolio borrower,26000,9000,0,30000,12
-B19,Ritu,Standard portfolio borrower,28000,8000,0,30000,12
-B20,Deepak,Standard portfolio borrower,30000,1000,4500,30000,12
-B21,Sneha,Standard portfolio borrower,29000,13000,0,30000,12
-B22,Vijay,Standard portfolio borrower,32000,8000,1000,30000,12
-B23,Aarti,Standard portfolio borrower,20000,14000,2000,30000,12
-B24,Prakash,Standard portfolio borrower,29000,11000,2000,30000,12
-B25,Rekha,Standard portfolio borrower,20000,6000,2000,30000,12
-B26,Anil,Standard portfolio borrower,25000,14000,0,30000,12
-B27,Swati,Standard portfolio borrower,25000,8000,1000,30000,12
-B28,Manoj,Standard portfolio borrower,26000,19000,2000,30000,12
-B29,Geeta,Standard portfolio borrower,29000,10000,1000,30000,12
-B30,Rajesh,Standard portfolio borrower,29000,11000,2000,30000,12
-B31,Meena,Standard portfolio borrower,26000,500,3000,30000,12
-B32,Sunil,Standard portfolio borrower,23000,12000,0,30000,12
-B33,Jyoti,Standard portfolio borrower,32000,17000,1000,30000,12
-B34,Ramesh,Standard portfolio borrower,35000,12000,2000,30000,12
-B35,Sushma,Standard portfolio borrower,28000,6000,0,30000,12
-B36,Vinod,Standard portfolio borrower,19000,15000,1000,30000,12
-B37,Poonam,Standard portfolio borrower,26000,7000,0,30000,12
+B01,Maya,"Seasonal agricultural income; two comparable dips this year, both fully recovered",23650,20000,0,36000,12
+B02,Asha,"Stable-looking business, economically linked to Maya through a shared supply arrangement",22000,9000,2000,42000,18
+B03,Ravi,Independent local retailer; only a weak village-level connection to Maya,28000,35000,500,38000,10
+B04,Imran,Independent shopkeeper with no financial relationship to the rest of this group,22000,24000,0,33000,12
+B05,Priya,Independent borrower with a genuine multi-month income decline and no historical recovery pattern,24000,5000,2000,36000,12
+B06,Kiran,Local supplier dependent on Asha's business volume,25000,15000,0,30000,12
+B07,Rahul,Shares transport logistics with Ravi,23000,12000,0,25000,12
+B08,Vikram,Runs a hardware store on the main road; demand has stayed flat and predictable all year.,38000,22300,200,40000,24
+B09,Sunita,"Co-borrows with Vikram; tailoring unit serving local schools with a steady, separate customer base.",21000,14000,1600,25000,12
+B10,Amit,Auto-rickshaw driver on a fixed town route; fares have held steady month to month.,19000,17300,500,45000,10
+B11,Neha,Dairy farmer selling to the local cooperative; milk collection income is consistent.,21000,20500,200,50000,18
+B12,Rohit,Neha's neighbor and occasional cattle-feed supplier; income tracks her steady demand.,20000,19400,600,40000,12
+B13,Pooja,"Runs a small provision store two lanes over; unrelated trade, only a weak village-level tie.",35000,10400,300,30000,12
+B14,Sanjay,"Sells seasonal produce at the weekly market; an earlier dip this year fully recovered within weeks, but the current one hasn't turned yet.",24000,13000,0,30000,12
+B15,Anjali,Sanjay's sister-in-law; a home-stitching business that keeps its own steady rhythm regardless of his seasonal swings.,31000,22500,2900,45000,12
+B16,Suresh,Loosely linked to the family through a shared handcart; income is independent and steady.,36000,35500,2400,45000,14
+B17,Kavita,Handloom weaver supplying a nearby exporter on standing orders.,21000,19500,900,25000,14
+B18,Manish,Sits on the same village committee as Kavita; runs a steady stationery shop near the school.,29000,18500,2400,40000,14
+B19,Ritu,Manish's spouse; manages a small papad-making unit with a stable weekly order cycle.,27000,25300,2200,50000,12
+B20,Deepak,Runs a small hardware-supply stall; a key wholesale client scaled back orders months ago and volumes keep sliding with no sign of recovery.,25000,8000,0,32000,12
+B21,Sneha,"Buys stock through Deepak's supply line; her own counter has held up so far, but the link is worth watching if he falls further behind.",29000,14600,200,45000,24
+B22,Vijay,Works the same market row; only a weak co-borrower tie to the rest of the group.,28000,32500,2800,45000,14
+B23,Aarti,"Vijay's cousin; family tie only, income unrelated to the group's trade.",32000,39300,3000,25000,24
+B24,Prakash,Bicycle-repair stall with a loyal set of regular customers.,30000,23200,1400,35000,18
+B25,Rekha,Prakash's spouse; runs a bangle and trinket stand near the same bus stand.,26000,27400,2400,40000,18
+B26,Anil,Carpentry workshop taking on a steady run of small local furniture orders.,24000,13400,2000,25000,14
+B27,Swati,Anil's regular customer and neighboring shop owner; sells sweets with steady local demand.,32000,28000,1400,50000,24
+B28,Manoj,Mason on a small local contracting crew; income has stayed level all year.,28000,8800,800,40000,18
+B29,Geeta,"Poultry supplier carrying two informal loans on top of the MFI loan; income has only dipped mildly, but combined repayments now sit close to the RBI debt-burden cap and a recent installment went unpaid.",26000,3500,9000,38000,14
+B30,Rajesh,"Part of the same informal lending circle as Geeta; his own repayments are current, but the circle's exposure to her debt load is worth flagging.",28000,15600,1800,30000,12
+B31,Meena,"Rajesh's relative; family tie only, finances are independent.",23000,17300,600,45000,18
+B32,Sushma,Runs a fish stall at the daily market; catch and sales have stayed steady.,32000,20300,3000,45000,10
+B33,Sunil,Shares a transport-pooling arrangement with Sushma to reach the market each morning.,32000,14400,2700,40000,14
+B34,Jyoti,Sunil's co-borrower on a separate small loan; embroidery unit with standing wholesale orders.,34000,52200,800,40000,12
+B35,Ramesh,Jyoti's neighbor; runs a mobile-repair shop with a steady base of repeat customers.,31000,29800,2800,40000,24
+B36,Vinod,"Handicrafts trader tied to a festival export cycle; a similar dip earlier this year recovered in full, but the current one is deeper and still running.",22000,12500,500,28000,12
+B37,Poonam,"Vinod's regular supplier; a similar seasonal rhythm, but this cycle her stock has cleared on time.",19000,4900,1500,35000,24
+B38,Farhan,Poonam's neighbor; runs a steady grocery counter unrelated to the export trade.,23000,11400,400,35000,12
